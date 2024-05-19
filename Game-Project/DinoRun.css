@@ -1,0 +1,48 @@
+body {
+    background-color: saddlebrown;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#board {
+    /*background-color: moccasin;*/
+    background-image: url("background-image.png");
+    background-size: cover;
+    border: 20px solid rgb(194, 118, 48);
+    border-bottom: 20px solid sandybrown;
+    border-top: 20px solid rgb(226, 137, 59)
+
+}
+
+h1 {
+    color:moccasin;
+}
+
+h4{
+color:sandybrown;
+font-size: 20px;
+font-family:'Courier New', Courier, monospace;
+}
+
+h2{
+    color:sandybrown;
+}
+
+/* Dinald image */
+#dinoimage{
+    height: 400px;
+    width: 440px;
+}
+
+#name{
+    color:sandybrown;
+}
+
+#controls{
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(130, 65, 19);
+    border: 10px solid rgb(163, 88, 33);
+    margin: 0 auto;
+}
